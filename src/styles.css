@@ -5,4 +5,4 @@
   --font-roboto: "Roboto", sans-serif;
 }
 
-@source inline('bg-{blue, green, red}-400')
+@source inline('bg-{blue, green, red}-400');
